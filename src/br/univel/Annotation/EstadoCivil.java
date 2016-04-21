@@ -1,5 +1,11 @@
 package br.univel.Annotation;
 
-public class EstadoCivil {
+public enum EstadoCivil {
 
+	  SOLTEIRO,
+	    CASADO,
+	    DIVORCIADO,
+	    VIUVO,
+	    UNIAO_ESTAVEL;
+	   
 }
