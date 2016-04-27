@@ -1,4 +1,4 @@
-package br.univel.Annotation;
+package anotacoes;
 
 public enum EstadoCivil {
 
